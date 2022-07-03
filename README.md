@@ -60,3 +60,4 @@ Fixed (исправлен) – код изменен и протестирова
 
 
 </table>
+![image](https://user-images.githubusercontent.com/89997083/177026344-17b348c8-a744-4694-bfbf-303849a83821.png)
