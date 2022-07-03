@@ -34,7 +34,7 @@ Fixed (исправлен) – код изменен и протестирова
 
 <tr>
 <th>Требование</th>
-<th>Пароль</th>
+<th>Вохдные данные</th>
 <th>Результат</th>
 </tr>
 
@@ -63,46 +63,6 @@ Fixed (исправлен) – код изменен и протестирова
 <td>True</td>
 </tr>
 
-<tr>
-<td></td>
-<td>rfvedcsdfD()</td>
-<td>False</td>
-</tr>
 
-<tr>
-<td>Наличие спецсимволов</td>
-<td>ae#!@zxdsD3#</td>
-<td>True</td>
-</tr>
-
-<tr>
-<td></td>
-<td>asdfghjkl</td>
-<td>False</td>
-</tr>
-
-<tr>
-<td>Наличие прописных букв</td>
-<td>LKJHgfds1$</td>
-<td>True</td>
-</tr>
-
-<tr>
-<td>lkjhgfdf</td>
-<td>lkjhgfdf</td>
-<td>False</td>
-</tr>
-
-<tr>
-<td>Наличие строчных букв</td>
-<td>QWERasdf5%</td>
-<td>True</td>
-</tr>
-
-<tr>
-<td></td>
-<td>QWERTGFD</td>
-<td>False</td>
-</tr>
 
 </table>
